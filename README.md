@@ -1,1 +1,1 @@
-The primary purpose of this repository is to keep track of my leetcode solutions/explanations. 
+This repository keeps track of my leetcode solutions and explanations for those solutions. 
