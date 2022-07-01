@@ -5,6 +5,8 @@ Date solved: **DATE**
 Date added: **DATE**  
 [Link to problem](LINK)
 
+<br>
+
 ## Problem Description
 
 DESCRIPTION...
@@ -26,6 +28,8 @@ EXAMPLE1
 ```
 EXAMPLE2
 ```
+
+<br>
 
 ## Solution
 
