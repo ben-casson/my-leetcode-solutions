@@ -33,8 +33,6 @@ EXAMPLE2
 
 ## Solution
 
-EXPLANATION...
-
 ### **JavaScript**
 
 ```js
